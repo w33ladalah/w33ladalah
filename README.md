@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @w33ladalah
+- 👋 Hi, I’m Hendro (@w33ladalah)
 - 👀 I’m interested in Web Scraping, Blockchain, and IoT
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on blockchain projects
