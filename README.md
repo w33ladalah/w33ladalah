@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Scraping, Web 3.0, Blockchain, and IoT
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on blockchain projects
+- Currently doing AI stuff and Computer Vision
 - 📫 How to reach me => hendrothemail@gmail.com
 
 <!---
