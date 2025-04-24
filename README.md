@@ -1,10 +1,32 @@
-- 👋 Hi, I’m Hendro (@w33ladalah)
-- 👀 I’m interested in Web Scraping, Web 3.0, Blockchain, AI, and IoT
-- 🌱 I’m currently learning Rust
-- 💞️  Currently doing AI stuff and Computer Vision (Generative AI, LLM, and etc)
-- 📫 How to reach me => hendrothemail@gmail.com
-- 🌐 Visit my blog at [Medium](https://henwib.medium.com/)
-<!---
-w33ladalah/w33ladalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hello, I'm Hendro (@w33ladalah)
+
+### 💡 About Me
+I'm a senior fullstack engineer with over 10 years of experience building scalable, production-grade software systems. My work spans across AI, Web 3.0, IoT, and real-time platforms—with a focus on system design, automation, and backend architecture.
+
+🔬 Currently diving into Rust while actively working on Generative AI, LLMs, and Computer Vision.
+
+---
+
+### 🧰 Technologies & Tools
+
+**Frontend:**
+- React, TypeScript, Next.js, Tailwind, Material UI, Redux, React Query, Vite
+
+**Backend & APIs:**
+- FastAPI, Celery, Laravel, Node.js, Redis, WebSockets, OAuth2, JWT
+
+**Databases:**
+- MySQL, PostgreSQL, MongoDB, ChromaDB, Redis
+
+**DevOps & Cloud:**
+- Docker, Docker Compose, GCP (IAP, VPC, NAT), AWS (Lambda, EC2, EventBridge), Terraform, GitHub Actions
+
+**AI & LLM Tools:**
+- GPT-4o, DeepSeek R1, LLaMA 3, Deepgram, ElevenLabs, LiveKit
+
+---
+
+### 📫 Reach Me
+- 📧 Email: [hendrothemail@gmail.com](mailto:hendrothemail@gmail.com)  
+- 📝 Blog: [henwib.medium.com](https://henwib.medium.com)  
+- 💼 LinkedIn: [linkedin.com/in/hendro-wibowo](https://linkedin.com/in/hendro-wibowo)
