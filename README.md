@@ -22,7 +22,7 @@ I'm a senior fullstack engineer with over 10 years of experience building scalab
 - Docker, Docker Compose, GCP (IAP, VPC, NAT), AWS (Lambda, EC2, EventBridge), Terraform, GitHub Actions
 
 **AI & LLM Tools:**
-- GPT-4o, DeepSeek R1, LLaMA 3, Deepgram, ElevenLabs, LiveKit
+- GPT-4o, DeepSeek R1, LLaMA 3, Deepgram, ElevenLabs, LiveKit, LangChain
 
 ---
 
