@@ -13,7 +13,7 @@ I'm a senior fullstack engineer with over 10 years of experience building scalab
 - React, TypeScript, Next.js, Tailwind, Material UI, Redux, React Query, Vite
 
 **Backend & APIs:**
-- FastAPI, Celery, Laravel, Node.js, Redis, WebSockets, OAuth2, JWT
+- FastAPI, Celery, Laravel, Node.js, WebSockets, OAuth2, JWT
 
 **Databases:**
 - MySQL, PostgreSQL, MongoDB, ChromaDB, Redis
