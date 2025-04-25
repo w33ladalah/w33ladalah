@@ -24,6 +24,9 @@ I'm a senior fullstack engineer with over 10 years of experience building scalab
 **AI & LLM Tools:**
 - GPT-4o, DeepSeek R1, LLaMA 3, Deepgram, ElevenLabs, LiveKit, LangChain (LangChain, LangGraph, and LangSmith)
 
+**Automation Tools:**
+- Ansible, n8n, Zapier
+
 ---
 
 ### 📫 Reach Me
